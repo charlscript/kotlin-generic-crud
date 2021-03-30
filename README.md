@@ -145,5 +145,4 @@ Porém, o projeto possui o Swagger configurado, portanto, é mais simples usar o
 
 ---
 
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BDD1AE&title_bg=%23555555&icon=twoo.svg&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGilbertoCharles%2Fkotlin-generic-crud&count_bg=%23BDD1AE&title_bg=%23555555&icon=twoo.svg&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)
