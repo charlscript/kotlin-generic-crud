@@ -1,0 +1,12 @@
+version: '3.2'
+
+services:
+  genericcrud:
+    container_name: generic-crud
+    image: gradle:jdk11-openj9
+    volumes: 
+      - ./KotlinExample:/KotlinExample
+    ports:
+      - 8080:8080
+    working_dir: /KotlinExample
+    command: ./gradlew bootRun
