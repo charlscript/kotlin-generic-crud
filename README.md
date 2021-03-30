@@ -144,8 +144,6 @@ Porém, o projeto possui o Swagger configurado, portanto, é mais simples usar o
 
 
 ---
-<a href="https://github.com/GilbertoCharles/kotlin-generic-crud">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GilbertoCharles&repo=kotlin-generic-crud&theme=vue&locale=pt-br" />
-</a>
+
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23BDD1AE&title_bg=%23555555&icon=twoo.svg&icon_color=%23E7E7E7&title=Visitantes&edge_flat=false)
