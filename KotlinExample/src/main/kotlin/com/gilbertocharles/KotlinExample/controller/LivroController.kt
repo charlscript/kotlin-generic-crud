@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController
 
 @Api(value = "Api de Livros", tags = ["Livros"])
 @RestController
-@RequestMapping("Livros")
+@RequestMapping("livros")
 class LivroController : AbstractController<Livro>(){
     @Autowired
     lateinit var service: LivroService
